@@ -1,3 +1,3 @@
-module github.com/docseltsam/microservices-proto/golang/payment
+module github.com/dctrseltsam/microservices-proto/golang/payment
 
 go 1.20
